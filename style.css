@@ -1,0 +1,57 @@
+body{
+    margin: 50% 0%;
+    background: burlywood;
+    font-family: cursive;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 10%;
+    padding: 3.5em;
+    border: 0%;
+    border-radius: 100px;
+    box-shadow: inset 0 0 200px sandybrown;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(38, 52, 47);
+    font-weight: 900;
+}
+
+input{
+    margin: 1em;
+}
+
+
+.input1{
+    padding: .7em 3em;
+    border: 1px inset white;
+    border-radius: 10px;
+}
+
+.input2{
+    border: none;
+    border-radius: 10px;
+    padding: .6em 3em;
+    font-weight: 900;
+    font-family: cursive;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+
+footer{
+    color: brown;
+    text-align: center;
+    margin: 0% 0%;
+    padding: 0;
+    font-weight: 900;
+    font-size: 22px;
+}
